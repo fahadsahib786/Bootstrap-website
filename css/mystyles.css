@@ -18,6 +18,11 @@ h1 {
     font-size: 3.5rem;
     line-height: 1.5;
 }
+h2 {
+    font-family: "Monsterrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
 
 h3 {
     font-family: "Monsterrat-Bold";
@@ -79,4 +84,32 @@ p {
 }
 .icon:hover {
     color: #ff4c68;
+}
+
+/* Testemonials section */
+
+#testimonials {
+    text-align: center;
+    color: #fff;
+    background-color: #ef7172;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef7172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-image {
+width: 15%;
+padding: 20px 20px 50px;
 }
